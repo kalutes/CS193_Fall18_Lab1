@@ -1,3 +1,26 @@
+# Aditya Gandhi's First CS193 Homework (!!!)
+Aditya Gandhi really likes CS, and thus far, he really like CS193. One might even say its his favorite course. Some of the reasons why are listed below:
+- they have cool presentations
+- they had that one _"whats the curve"_ _"pretty thicc"_ joke (yes this merited being in its own point)
+- the indian ethnicity guy **(?)** he asked a question to after class seemed nice
+- the instructors are thorough and actually get information across fairly well, integrating _just enough_ comedy to keep everyone engaged throughout
+- building on the previous point, it's a class that doesn't just keep you awake, it keeps you invested and engaged too, which is not easy to find, and that's an excellent trait
+- they answer questions on EdStem pretty quickly and thoroughly, haven't asked any myself bc others had asked those before me and their answers were super helpful
+- i look forward to seeing you guys next week, ```slay```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
